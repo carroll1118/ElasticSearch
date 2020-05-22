@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.elasticsearch.client:elasticsearch-rest-high-level-client:7.1.0">
+    <CLASSES>
+      <root url="jar://D:/developer  kits/apache-maven-3.6.1/localRepository/org/elasticsearch/client/elasticsearch-rest-high-level-client/7.1.0/elasticsearch-rest-high-level-client-7.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/developer  kits/apache-maven-3.6.1/localRepository/org/elasticsearch/client/elasticsearch-rest-high-level-client/7.1.0/elasticsearch-rest-high-level-client-7.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/developer  kits/apache-maven-3.6.1/localRepository/org/elasticsearch/client/elasticsearch-rest-high-level-client/7.1.0/elasticsearch-rest-high-level-client-7.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
